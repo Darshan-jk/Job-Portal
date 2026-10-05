@@ -266,6 +266,4 @@ The React production build can be placed inside the Spring Boot `static` directo
 
 **Darshan JK**
 
-B.E. Computer Science and Engineering
-
 GitHub: https://github.com/Darshan-jk
